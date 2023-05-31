@@ -1,1 +1,1 @@
-![<Email>](https://img.shields.io/badge/<Email>-<Background Color><Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
