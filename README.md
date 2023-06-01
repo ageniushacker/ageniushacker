@@ -4,8 +4,6 @@
 
 ### Hi 🙋‍♂️,
 
-#### - 🛸 Into Hacking, malwares and web
-
 
 <br />
 
