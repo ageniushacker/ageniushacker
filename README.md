@@ -13,15 +13,8 @@
 
 
 ## 🎉 Skills 🎉
- - FrontEnd: React, Redux, Angular, RxJs, SASS, Webpack
- - BackEnd: Go, Node.js, Express
- - CI/CD: CircleCI, GitHub Actions, Azure Pipelines
- - DevOps: Docker, Ansible, Fastlane, Nginx, Makefile
- - Mobile: React Native
- - Bots: Botkit, Rasa
- - UI Frameworks: Material-UI, Bootstrap
- - Web technologies: HTML5, CSS3, ES7+, a11y
- - Databases: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
- - Misc: Git, Eslint, Prettier, Typescript
- - Languages: C, C++, Java
+ - UI Frameworks: MBootstrap
+ - Web technologies: HTML, CSS, PHP, JS
+ - Databases: MySQL, MariaDB
+ - Languages: C, C++, Java, Python
 
