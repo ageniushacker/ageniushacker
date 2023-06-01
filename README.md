@@ -7,19 +7,6 @@
 
 <br />
 
-
-**I am Into , 🙏**
-<br />
-```pie
-pie
-    title Into
-    "Hacking" : 50
-    "Web developement" : 30
-    "CLI apps" : 20
-```    
-<br />
-
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -28,3 +15,19 @@ pie
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ageniushacker&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+
+
+##🎉 Skills 🎉
+
+    FrontEnd: React, Redux, Angular, RxJs, SASS, Webpack
+    BackEnd: Go, Node.js, Express
+    CI/CD: CircleCI, GitHub Actions, Azure Pipelines
+    DevOps: Docker, Ansible, Fastlane, Nginx, Makefile
+    Mobile: React Native
+    Bots: Botkit, Rasa
+    UI Frameworks: Material-UI, Bootstrap
+    Web technologies: HTML5, CSS3, ES7+, a11y
+    Databases: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
+    Misc: Git, Eslint, Prettier, Typescript
+    Languages: C, C++, Java
+
