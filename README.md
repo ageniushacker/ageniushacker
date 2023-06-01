@@ -13,7 +13,6 @@
 
 
 ## 🎉 Skills 🎉
- - UI Frameworks: Bootstrap
  - Web technologies: HTML, CSS, PHP, JS
  - Databases: MySQL, MariaDB
  - Languages: Python
