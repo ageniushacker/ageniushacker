@@ -9,8 +9,12 @@
 
 
 **I am Into , 🙏**
-
-**Hacking, Web Development&Malwares😼**
+pie
+    title Into
+    "Hacking" : 50
+    "Web developement" : 30
+    "CLI apps" : 20
+    
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
